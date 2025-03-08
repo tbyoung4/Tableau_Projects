@@ -8,4 +8,4 @@ Link to public view: https://public.tableau.com/app/profile/thomas.young2300/viz
 Projects 
 
 Project 1: 3/8/25 - What types of charts can be created in Tableau using the built in dataset (Superstore)? 
-- PDFs of dashboards can be viewed in attached documents: Dashboard 1, Dashboard 2, Dashboard 3
+- PDFs of dashboards can be viewed in attached documents: Dashboards 1,2,3,4
