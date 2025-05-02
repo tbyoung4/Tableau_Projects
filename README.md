@@ -1,8 +1,6 @@
 # Tableau-Projects
 Tableau Portfolio
 
-This repository will be updated weekly starting 3/8/25 to showcase my skills in Tableau 
-
 Link to public view: https://public.tableau.com/app/profile/thomas.young2300/vizzes  
 
 Projects 
